@@ -7,10 +7,10 @@ I am confident in my ability to handle data analysis projects, providing solutio
 
 Skills: Data Analysis / Excel / SQL / Python / Power BI / React / JavaScript / HTML / CSS / Node.js
 
-🔭 I’m currently working on Data Analysis projects
-🌱 I’m currently learning advanced analytics techniques
-👯 I’m open to collaboration on data-driven projects
-💬 Ask me about Data Analysis and Web Development
+🔭 I’m currently working on Data Analysis projects </br>
+🌱 I’m currently learning advanced analytics techniques</br>
+👯 I’m open to collaboration on data-driven projects</br>
+💬 Ask me about Data Analysis and Web Development</br>
 
 
 
